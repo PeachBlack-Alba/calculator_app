@@ -1,5 +1,3 @@
-# calculator_app
-
 # Calculator App
 
 This is a simple calculator app built with Flutter. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
