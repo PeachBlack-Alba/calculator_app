@@ -13,7 +13,7 @@ This is a simple calculator app built with Flutter. The app allows users to perf
 
 | screenshoot  | showcase |
 | :------: | :-----: |
-|![image](https://github.com/user-attachments/assets/baa9378a-b9a9-47d3-ba04-1d1e8424ef85))|![image](https://github.com/user-attachments/assets/5587d807-b0bb-4889-a2fb-dbf8865fc7e8)|
+|![image](https://github.com/user-attachments/assets/baa9378a-b9a9-47d3-ba04-1d1e8424ef85)|![image](https://github.com/user-attachments/assets/5587d807-b0bb-4889-a2fb-dbf8865fc7e8)|
 
 
 
