@@ -10,7 +10,14 @@ This is a simple calculator app built with Flutter. The app allows users to perf
 
 ## Screenshots
 
-![Calculator Screenshot](https://github.com/user-attachments/assets/baa9378a-b9a9-47d3-ba04-1d1e8424ef85) 
+![Calculator Screenshot]() 
+
+
+| screenshoot  | showcase |
+| :------: | :-----: |
+|![image]([https://github.com/deliveryhero/vg-one-app/assets/57803942/234934da-33d9-4fca-af20-fe3474b92d66](https://github.com/user-attachments/assets/baa9378a-b9a9-47d3-ba04-1d1e8424ef85))|![image]([https://github.com/deliveryhero/vg-one-app/assets/57803942/8600ff64-675e-4631-97c8-dec7324bbc9f](https://github.com/user-attachments/assets/5587d807-b0bb-4889-a2fb-dbf8865fc7e8))|
+
+
 
 
 ## Getting Started
